@@ -171,11 +171,10 @@ function App() {
           </div>
           <div>
             <h1>
-              PA vs Physician
+              RN vs nurse practitioner
             </h1>
             <p>
-              The key difference between medical training of a doctor and physician assistant is time. Typically, doctors complete four years of medical school, followed by an internship and residency. PAs, on the other hand, complete their training in two years.
-              The main difference between a doctor and a physician assistant is that a PA works under the supervision of a doctor, whereas a doctor has full responsibility for a clinical situation. Both are qualified medical professionals, and very much work in collaboration with one another.
+              The main difference between a RN and NP is the scope of practice. Nurse practitioners are given much more autonomy. In some states, nurse practitioners are able to work independently and have their own offices. Conversely, registered nurses work under a clinician such as a doctor or nurse practitioner
             </p>
           </div>
 
