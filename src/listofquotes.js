@@ -1,4 +1,3 @@
-import React from "react";
 
 const QuoteList = [
     "You do not always have to go to the best and most expensive school to achieve your medical goals.",
