@@ -154,7 +154,7 @@ function App() {
         <h1>Jobs</h1>
         <div className='jobsCont'>
           {JobList.map((Number, index) =>
-            <JobCards ed={Number.ed} des={Number.Desc} sressss={Number.sressss} salary={Number.Salary} Title={Number.Title} />
+            <JobCards ed={Number.ed} des={Number.Desc} sressss={Number.Stress} salary={Number.Salary} Title={Number.Title} />
           )}
         </div>
       </div>
