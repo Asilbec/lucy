@@ -18,7 +18,7 @@ function JobCards(props) {
     <div className='jobcardOutlien'>
       <h2>{props.Title}</h2>
       <h3>Salary  : ${props.salary}</h3>
-      <h4>Stress Level : {props.Title}</h4>
+      <h4>Stress Level : {props.sressss}</h4>
       <p>Description : {props.des}</p>
       <p>Education : {props.ed} </p>
 
@@ -128,7 +128,7 @@ function App() {
             <li>Giving bad news </li>
             <li>Cruel supervisors </li>
             <li>Sleep deprivation </li>
-            <li>DKnowing that you cant be perfect </li>
+            <li>Knowing that you cant be perfect </li>
             <li>Work-life balance </li>
             <li>Unpredictability </li>
             <li>Patient death </li>
